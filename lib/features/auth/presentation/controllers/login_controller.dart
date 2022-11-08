@@ -4,6 +4,7 @@ import 'package:task/features/auth/data/data_source/auth_data_source.dart';
 import 'package:task/features/auth/data/models/user_model.dart';
 import 'package:task/features/auth/data/repo/auth_repo_imp.dart';
 import 'package:task/features/auth/domain/use_case/login_use_case.dart';
+import 'package:task/features/home/presentation/views/home_screen.dart';
 import 'package:task/utils/di/injection.dart';
 import 'package:task/utils/errors/failures.dart';
 import 'package:task/utils/network/network_info.dart';
@@ -39,8 +40,7 @@ class LoginController extends GetxController{
         }
       }, (r) {
         userModel = r;
-        // HiveHelper.setUserData(r);
-        // Get.offAll(Home());
+        Get.offAll(HomeScreen());
       });
     });
   }

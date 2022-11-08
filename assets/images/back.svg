@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Vector" d="M419.277,115.371c-1.709-2.024-7.425-8.4-19.033-12.92-18.8-7.308-26.2.736-57.592-3.68-7.247-1.025-17.187-2.865-26.143-9.66a44.03,44.03,0,0,1-8.6-8.635,50.249,50.249,0,0,1-7.11-17.454c-2.735-14.129,1.272-17.086-1-27.338-2.16-9.752-8.2-17.086-12.661-21.371C273.219.881,254.979.079,250.3,0H49.566A53.415,53.415,0,0,0,15.041,14.037,49.224,49.224,0,0,0,0,43.57V1275.447H427.973V133.5a41.246,41.246,0,0,0-8.7-18.125Z" transform="translate(-786 0)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-log_in_1">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="log_in_1" data-name="log in – 1" clip-path="url(#clip-log_in_1)">
+    <g id="Vector-2" data-name="Vector" transform="translate(786.027 0)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="927.913" height="427.973" transform="translate(-786 927.913) rotate(-90)" fill="rgba(255,255,255,0.4)"/>
+    </g>
+  </g>
+</svg>

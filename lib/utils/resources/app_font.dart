@@ -22,6 +22,7 @@ class AppScreenUtil {
   static double w16 = 16.w;
   static double w18 = 18.w;
   static double w20 = 20.w;
+  static double w66 = 66.w;
 
   static var h150 = 150.h;
 
@@ -67,6 +68,12 @@ class AppScreenUtil {
   static var h300 = 300.h;
 
   static var w180 = 180.w;
+  static var h66 = 66.h;
+
+  static var h108 = 108.h;
+  static var w108 = 108.w;
+
+  static var w36 = 108.w;
 
 
 }

@@ -63,11 +63,13 @@ class HomeController extends GetxController{
               'هناك مشكلة في السيرفر ', 'برجاء التواصل مع خدمة العملاء');
         }
       }, (r) {
-
+        getGallery(userToken: userToken);
         update();
       });
     });
   }
+
+
 
 }
 
