@@ -12,9 +12,9 @@ class AppAssets {
   static String upload = imagePath + 'upload.svg';
   static String logoutIcon = imagePath + 'logout_icon.svg';
 
-  static String gallerySvg = imagePath + 'gallery.svg';
+  // static String gallerySvg = imagePath + 'gallery.svg';
 
-  static String cameraSvg = imagePath + 'camera.svg';
+  // static String cameraSvg = imagePath + 'camera.svg';
 
   static String gallery = imagePath + 'gallery.png';
 
